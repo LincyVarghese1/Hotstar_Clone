@@ -110,7 +110,7 @@ body {
   width: 70%;
   min-height: cover;
   display: block;
-  margin-left: auto;
+  margin: auto;
 }
 .slide-content {
   position: absolute;
