@@ -92,6 +92,7 @@ body {
   height: 100%;
   position: relative;
   margin: auto;
+  z-index: -999;
 }
 .slider {
   flex: 0 0 auto;
@@ -139,6 +140,7 @@ body {
   display: flex;
   margin-bottom: 20px;
   justify-content: space-between;
+  z-index: -999;
 }
 .video-card {
   position: relative;
