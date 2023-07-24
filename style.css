@@ -17,7 +17,7 @@ body {
   left: 0;
   padding: 0 4%;
   background: #0c111b;
-  z-index: 0;
+  z-index: 2;
   display: flex;
   align-items: center;
 }
@@ -140,7 +140,7 @@ body {
   display: flex;
   margin-bottom: 20px;
   justify-content: space-between;
-  z-index: -999;
+  z-index: 0;
 }
 .video-card {
   position: relative;
